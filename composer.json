@@ -19,5 +19,8 @@
       "UCS\\Component\\TimeSheet\\": "src",
       "UCS\\Component\\TimeSheet\\Tests\\": "tests"
     }
+  },
+  "require-dev": {
+    "symfony/phpunit-bridge": "^4.1@dev"
   }
 }

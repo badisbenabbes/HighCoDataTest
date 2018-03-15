@@ -4,8 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fa07babe6e0b46ed94d2b140e378d586",
-    "content-hash": "bd8b9e6ef8f521f08b0d4127f90074b6",
+    "content-hash": "e0504094e6f38dd06e64f9d6ff20a8a7",
     "packages": [
         {
             "name": "doctrine/collections",
@@ -71,7 +70,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2015-09-11 15:24:21"
+            "time": "2015-09-11T15:24:21+00:00"
         },
         {
             "name": "ircmaxell/password-compat",
@@ -113,7 +112,7 @@
                 "hashing",
                 "password"
             ],
-            "time": "2014-11-20 19:18:42"
+            "time": "2014-11-20T19:18:42+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -161,7 +160,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-01-06 13:31:20"
+            "time": "2016-01-06T13:31:20+00:00"
         },
         {
             "name": "psr/log",
@@ -208,7 +207,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-01-06 21:40:42"
+            "time": "2016-01-06T21:40:42+00:00"
         },
         {
             "name": "symfony/debug",
@@ -265,7 +264,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-21 10:01:50"
+            "time": "2016-01-21T10:01:50+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -325,7 +324,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-13 10:28:07"
+            "time": "2016-01-13T10:28:07+00:00"
         },
         {
             "name": "symfony/http-foundation",
@@ -379,7 +378,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-21 09:05:51"
+            "time": "2016-01-21T09:05:51+00:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -461,7 +460,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-21 09:53:31"
+            "time": "2016-01-21T09:53:31+00:00"
         },
         {
             "name": "symfony/options-resolver",
@@ -515,7 +514,7 @@
                 "configuration",
                 "options"
             ],
-            "time": "2016-01-21 09:05:51"
+            "time": "2016-01-21T09:05:51+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -574,7 +573,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-01-13 07:16:33"
+            "time": "2016-01-13T07:16:33+00:00"
         },
         {
             "name": "symfony/polyfill-php54",
@@ -632,7 +631,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-01-13 07:16:33"
+            "time": "2016-01-13T07:16:33+00:00"
         },
         {
             "name": "symfony/polyfill-php55",
@@ -688,7 +687,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-01-13 07:16:33"
+            "time": "2016-01-13T07:16:33+00:00"
         },
         {
             "name": "symfony/polyfill-php56",
@@ -744,7 +743,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-01-13 07:16:33"
+            "time": "2016-01-13T07:16:33+00:00"
         },
         {
             "name": "symfony/polyfill-php70",
@@ -803,7 +802,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-01-15 10:29:03"
+            "time": "2016-01-15T10:29:03+00:00"
         },
         {
             "name": "symfony/polyfill-util",
@@ -855,7 +854,7 @@
                 "polyfill",
                 "shim"
             ],
-            "time": "2016-01-13 07:16:33"
+            "time": "2016-01-13T07:16:33+00:00"
         },
         {
             "name": "symfony/property-access",
@@ -915,7 +914,7 @@
                 "property path",
                 "reflection"
             ],
-            "time": "2016-01-03 15:35:16"
+            "time": "2016-01-03T15:35:16+00:00"
         },
         {
             "name": "symfony/security",
@@ -995,7 +994,7 @@
             ],
             "description": "Symfony Security Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-21 09:24:53"
+            "time": "2016-01-21T09:24:53+00:00"
         },
         {
             "name": "symfony/security-acl",
@@ -1056,7 +1055,7 @@
             ],
             "description": "Symfony Security Component - ACL (Access Control List)",
             "homepage": "https://symfony.com",
-            "time": "2015-12-28 09:39:09"
+            "time": "2015-12-28T09:39:09+00:00"
         },
         {
             "name": "symfony/translation",
@@ -1120,7 +1119,7 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-21 09:38:31"
+            "time": "2016-01-21T09:38:31+00:00"
         },
         {
             "name": "symfony/validator",
@@ -1192,13 +1191,82 @@
             ],
             "description": "Symfony Validator Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-21 09:05:51"
+            "time": "2016-01-21T09:05:51+00:00"
         }
     ],
-    "packages-dev": [],
+    "packages-dev": [
+        {
+            "name": "symfony/phpunit-bridge",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/phpunit-bridge.git",
+                "reference": "cb78c3487fbb6120a57707e7f53f00226c1dfac0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/cb78c3487fbb6120a57707e7f53f00226c1dfac0",
+                "reference": "cb78c3487fbb6120a57707e7f53f00226c1dfac0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "conflict": {
+                "phpunit/phpunit": "<4.8.35|<5.4.3,>=5.0"
+            },
+            "suggest": {
+                "ext-zip": "Zip support is required when using bin/simple-phpunit",
+                "symfony/debug": "For tracking deprecated interfaces usages at runtime with DebugClassLoader"
+            },
+            "bin": [
+                "bin/simple-phpunit"
+            ],
+            "type": "symfony-bridge",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "4.1-dev"
+                },
+                "thanks": {
+                    "name": "phpunit/phpunit",
+                    "url": "https://github.com/sebastianbergmann/phpunit"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ],
+                "psr-4": {
+                    "Symfony\\Bridge\\PhpUnit\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony PHPUnit Bridge",
+            "homepage": "https://symfony.com",
+            "time": "2018-02-15T07:57:58+00:00"
+        }
+    ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "symfony/phpunit-bridge": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
